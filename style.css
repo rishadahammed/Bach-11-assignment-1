@@ -186,3 +186,169 @@ border-radius: 8px;
    border-radius: 8px;
    background: rgb(9, 161, 92); 
 }
+
+
+
+
+
+
+.pik{
+}
+
+
+
+
+.con {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  background-color: #f0f0f0;
+}
+
+
+
+.text-container {
+  width: 60%;
+}
+
+h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+p {
+  margin-bottom: 15px;
+}
+
+.read-more-btn {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+p {
+  margin-bottom: 15px;
+}
+
+.donation-buttons {
+  display: flex;
+  justify-content: space-between;
+}
+
+.donation-button {
+  background-color: #f8f8f8;
+  color: black;
+  padding: 15px 30px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.donation-b {
+  background: rgb(198, 228, 214);
+  color: black;
+  padding: 15px 30px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.other-amount {
+  box-sizing: border-box;
+border-bottom: 1px solid rgba(14, 14, 14, 0.15);
+background: rgb(255, 255, 255);
+background-color: #f0f0f0;
+padding: 20px;
+margin-top: 20px;
+}
+ 
+
+
+
+.done-now-button {
+  box-sizing: border-box;
+  border: 1px solid rgba(14, 14, 14, 0.1);
+  border-radius: 20px;
+  
+  background: rgb(0, 106, 80);
+}
+
+.newsletter-section {
+  
+  padding: 20px;
+  margin-top: 20px;
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 20px;
+  border-radius: 24px;
+background: rgb(198, 228, 214);
+}
+
+.newsletter-form {
+  display: flex;
+  margin-top: 10px;
+}
+
+.newsletter-form input {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  flex-grow: 1;
+  margin-right: 10px;
+}
+
+.subscribe-button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+footer {
+  background-color: #333;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+.social-media {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.social-media li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+.social-media a {
+  color: white;
+  text-decoration: none;
+}
